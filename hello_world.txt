@@ -3,3 +3,5 @@ some
 text
 to 
 it
+
+to test my new git commit
